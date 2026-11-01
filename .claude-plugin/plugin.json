@@ -1,0 +1,20 @@
+{
+  "name": "outil",
+  "version": "2.1.1",
+  "description": "Operate an Outil.io project from Claude: sites, sales funnels, CRM, email, SMS, WhatsApp, Telegram, courses and shop.",
+  "author": {
+    "name": "Outil.io",
+    "url": "https://outil.io"
+  },
+  "homepage": "https://outil.io/serveur-mcp",
+  "keywords": [
+    "marketing",
+    "crm",
+    "sales-funnel",
+    "email",
+    "whatsapp",
+    "website-builder",
+    "french"
+  ],
+  "repository": "https://github.com/outil-io/outil-mcp"
+}

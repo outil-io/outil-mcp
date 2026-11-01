@@ -1,0 +1,32 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.outil/outil",
+  "title": "Outil.io",
+  "description": "All-in-one marketing for entrepreneurs: sites, sales funnels, CRM, email, WhatsApp, courses, shop.",
+  "version": "2.1.1",
+  "websiteUrl": "https://outil.io/serveur-mcp",
+  "icons": [
+    {
+      "src": "https://outil.io/brand/outil-symbol.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://outil.io/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Optional: 'Bearer outil_…' API key from Paramètres → API & MCP. Without it, clients sign in with OAuth.",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/outil-io/outil-mcp",
+    "source": "github"
+  }
+}

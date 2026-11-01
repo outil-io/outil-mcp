@@ -1,0 +1,11 @@
+{
+  "name": "outil",
+  "version": "2.1.1",
+  "description": "Outil.io: sites, sales funnels, CRM, email, SMS, WhatsApp, Telegram, courses and shop, operated from Gemini CLI.",
+  "mcpServers": {
+    "outil": {
+      "httpUrl": "https://outil.io/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "outil",
+  "owner": { "name": "Outil.io", "url": "https://outil.io" },
+  "plugins": [
+    {
+      "name": "outil",
+      "source": "./",
+      "description": "Outil.io MCP server: sites, sales funnels, CRM, email, WhatsApp, Telegram, courses and shop."
+    }
+  ]
+}

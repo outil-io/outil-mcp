@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "outil": { "type": "http", "url": "https://outil.io/mcp" }
+  }
+}
